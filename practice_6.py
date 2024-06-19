@@ -3,6 +3,16 @@
 from random import randint
 from termcolor import cprint
 
+"""
+При попытке запуска файла выскакивает ошибка 
+Traceback (most recent call last):
+File "C:\Users\\\practice_6.py", line 16
+6, in <module>
+    moscow.set_road_out(moscow_piter)
+TypeError: 'NoneType' object is not callable
+
+Process finished with exit code 1
+"""
 
 # Реализуем модель доставки грузов
 
